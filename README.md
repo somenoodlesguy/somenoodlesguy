@@ -1,4 +1,9 @@
-hi <br>
-i yoink code from stackoverflow and hope it works <br>
-i know html and css <br>
-and i'm trying to learn javascript and python
+# hi
+
+i exist<br>
+i know html, css, and javascript<br>
+and i'm trying to learn python<br>
+
+---
+
+fun fact: i once learned a lot of python and then forgot a bunch of it
