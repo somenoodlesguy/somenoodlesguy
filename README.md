@@ -1,8 +1,7 @@
 hi i'm
 
-# supernoodles99
+# noodles
 
-you can call me noodles.  
-i do random things on the web sometimes  
+i do stuff
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,md,sqlite,cloudflare,github,figma,codepen&perline=5)](https://skillicons.dev)
+[![skill](https://skillicons.dev/icons?i=html,css,js,ts,py,md,sqlite,cloudflare,github,figma&perline=5)](https://skillicons.dev)
